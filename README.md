@@ -1,18 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff6b00&height=200&section=header&text=Miguel+Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff6b00&height=200&section=header&animation=fadeIn&text=Miguel%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%7C+PUC+Minas;PHP+%7C+Laravel+%7C+Java+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+Eng. de Software+%7C+PUC+Minas;PHP+%7C+Laravel+%7C+Java+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 </div>
 
+
 ---
+
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaixonado por construir soluções que fazem diferença. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na PUC Minas, com experiência em projetos que vão desde aplicações web com Laravel e TypeScript até sistemas móveis e distribuídos.
+
+Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaixonado por construir soluções que fazem diferença. Atualmente cursando **Engenharia de Software** na PUC Minas, com experiência em projetos que vão desde aplicações web com Laravel e TypeScript até sistemas móveis e distribuídos.
+
 
 - 🔭 Atualmente trabalhando no **Avialex Hub** — centralizador de informações empresariais em TypeScript
 - 🌱 Aprofundando conhecimentos em **TypeScript, Node.js e Arquitetura de Software**
@@ -20,11 +28,15 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 - 💡 Sempre buscando boas práticas, clean code e soluções escaláveis
 - 📍 Brasil
 
+
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
+
 <div align="center">
+
 
 ### 💻 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,15 +49,18 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### 🚀 Frameworks e Bibliotecas
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 🧰 IDEs e Ferramentas
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -57,11 +72,40 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
+
 </div>
+
 
 ---
 
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMagCastro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=3fb950&title_color=3fb950&icon_color=3fb950"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMagCastro&layout=compact&langs_count=7&theme=github_dark&border_color=3fb950&title_color=3fb950"/>
+
+
+</div>
+
+
+<div align="center">
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelMagCastro&theme=github-dark-blue&border=3fb950&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950)](https://git.io/streak-stats)
+
+
+</div>
+
+
+---
+
+
 ## 🚀 Projetos em Destaque
+
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -74,22 +118,32 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 | 📱 **[DAMD](https://github.com/MiguelMagCastro/DAMD)** | Desenvolvimento de Aplicações Móveis e Distribuídas | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | 🎥 **[Portal de Filmes](https://github.com/MiguelMagCastro/Portal-de-filmes)** | Portal de catálogo de filmes | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 
+
 ---
+
 
 ## 📬 Contato
 
+
 <div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MiguelMagCastro)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelMagCastro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
+
 </div>
+
 
 ---
 
+
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:1a1a1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
+
 </div>
+
