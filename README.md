@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:3fb950&height=200&section=header&text=Miguel%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff6b00&height=200&section=header&text=Miguel%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%7C+PUC+Minas;PHP+%7C+Laravel+%7C+Java+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%7C+PUC+Minas;PHP+%7C+Laravel+%7C+Java+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -61,23 +61,6 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMagCastro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=3fb950&title_color=3fb950&icon_color=3fb950"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMagCastro&layout=compact&langs_count=7&theme=github_dark&border_color=3fb950&title_color=3fb950"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelMagCastro&theme=github-dark-blue&border=3fb950&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -107,6 +90,6 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:1a1a1a&height=120&section=footer" width="100%"/>
 
 </div>
