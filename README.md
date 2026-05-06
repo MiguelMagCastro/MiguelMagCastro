@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff6b00&height=200&section=header&text=Miguel%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff6b00&height=200&section=header&text=Miguel+Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -90,6 +90,6 @@ Olá! Sou **Miguel Magalhães Freire de Castro**, desenvolvedor Full Stack apaix
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:1a1a1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:1a1a1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
